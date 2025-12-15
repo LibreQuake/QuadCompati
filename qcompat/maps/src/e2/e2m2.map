@@ -1,7 +1,7 @@
 {
 "message"	"the Ogre Citadel"
 "sounds"	"8"
-"wad"	"gfx/wizard.wad"
+"wad"	"../../../../texture-wads/wizard.wad"
 "classname"	"worldspawn"
 "worldtype"	"0"
 {

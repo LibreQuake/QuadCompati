@@ -1,6 +1,6 @@
 {
 "classname"	"worldspawn"
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "angle"	"180"
 "worldtype"	"1"
 "sounds"	"9"

@@ -1,6 +1,6 @@
 {
 "classname"	"worldspawn"
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "sounds"	"5"
 "message"	"the Haunted Halls"
 "worldtype"	"1"

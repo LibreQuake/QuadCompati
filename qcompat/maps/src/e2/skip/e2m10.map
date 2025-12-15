@@ -1,5 +1,5 @@
 {
-"wad"	"gfx/wizard.wad"
+"wad"	"../../../../texture-wads/wizard.wad"
 "classname" "worldspawn"
 "message" "the Dismal Oubliette"
 "worldtype" "0"

@@ -1,7 +1,7 @@
 {
 "worldtype"	"1"
 "classname"	"worldspawn"
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "spawnflags"	"1"
 "sounds"	"2"
 "message"	"The Bad Place"

@@ -1,6 +1,6 @@
 {
 "classname"	"worldspawn"
-"wad"	"gfx/items.wad"
+"wad"	"../../../../texture-wads/items.wad"
 {
 ( 0 16 200 ) ( 0 8 200 ) ( 0 8 -8 ) BATT0SID 0 -8 0 1.000000 1.000000
 ( 16 32 200 ) ( 0 32 200 ) ( 0 32 -8 ) BATT0SID 0 -8 0 1.000000 1.000000

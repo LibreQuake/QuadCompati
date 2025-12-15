@@ -2,7 +2,7 @@
 "message"	"the Installation"
 "sounds"	"6"
 "worldtype"	"2"
-"wad"	"gfx/base.wad"
+"wad"	"../../../../texture-wads/base.wad"
 "classname"	"worldspawn"
 {
 ( 448 -64 0 ) ( 448 -96 0 ) ( 448 -96 -128 ) SFLOOR4_2 0 0 0 1.000000 1.000000

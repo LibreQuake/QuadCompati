@@ -2,7 +2,7 @@
 "sounds"	"9"
 "message"	"the Necropolis"
 "worldtype"	"0"
-"wad"	"gfx/wizard.wad"
+"wad"	"../../../../texture-wads/wizard.wad"
 "classname"	"worldspawn"
 {
 ( 1424 272 52 ) ( 1424 272 0 ) ( 1424 240 0 ) WSWAMP2_1 0 0 0 1.000000 1.000000

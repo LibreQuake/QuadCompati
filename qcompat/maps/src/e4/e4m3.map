@@ -1,7 +1,7 @@
 {
 "sounds"	"9"
 "worldtype"	"0"
-"wad"	"gfx/medieval.wad"
+"wad"	"../../../../texture-wads/medieval.wad"
 "classname"	"worldspawn"
 "message"	"The Elder God Shrine"
 {

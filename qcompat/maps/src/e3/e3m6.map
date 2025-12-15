@@ -1,6 +1,6 @@
 {
 "sounds"	"4"
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "classname"	"worldspawn"
 "worldtype"	"1"
 "message"	"Chambers of Torment"

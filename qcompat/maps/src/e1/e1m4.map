@@ -2,7 +2,7 @@
 "message"	"the Grisly Grotto"
 "worldtype"	"0"
 "classname"	"worldspawn"
-"wad"	"gfx/wizard.wad"
+"wad"	"../../../../texture-wads/wizard.wad"
 "sounds"	"5"
 {
 ( 784 648 872 ) ( 784 144 872 ) ( 784 144 864 ) WGRND1_6 0 0 0 1.000000 1.000000

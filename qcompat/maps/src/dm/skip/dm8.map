@@ -1,5 +1,5 @@
 {
-"wad"	"gfx/base.wad"
+"wad"	"../../../../texture-wads/base.wad"
 "classname"	"worldspawn"
 {
 ( -768 176 32 ) ( -768 144 32 ) ( -768 144 0 ) TWALL1_2 0 0 0 1.000000 1.000000

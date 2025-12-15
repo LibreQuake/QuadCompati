@@ -2,7 +2,7 @@
 "sounds"	"10"
 "message"	"Hell's Atrium"
 "worldtype"	"0"
-"wad"	"gfx/wizard.wad"
+"wad"	"../../../../texture-wads/wizard.wad"
 "classname"	"worldspawn"
 {
 ( 800 -640 264 ) ( 928 -896 264 ) ( 928 -896 0 ) WALL11_2 0 0 0 1.000000 1.000000

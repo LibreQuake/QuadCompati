@@ -1,6 +1,6 @@
 {
 "message"	"the Slipgate Complex"
-"wad"	"gfx/base.wad"
+"wad"	"../../../../texture-wads/base.wad"
 "classname"	"worldspawn"
 "sounds"	"6"
 "worldtype"	"2"

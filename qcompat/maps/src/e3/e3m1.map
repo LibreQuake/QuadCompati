@@ -2,7 +2,7 @@
 "message"	"Termination Central"
 "sounds"	"6"
 "worldtype"	"2"
-"wad"	"gfx/base.wad"
+"wad"	"../../../../texture-wads/base.wad"
 "classname"	"worldspawn"
 {
 ( 512 512 80 ) ( 512 320 80 ) ( 512 320 0 ) SFLOOR4_2 0 0 0 1.000000 1.000000

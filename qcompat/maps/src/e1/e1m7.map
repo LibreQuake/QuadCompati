@@ -1,5 +1,5 @@
 {
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "classname"	"worldspawn"
 "worldtype"	"1"
 "sounds"	"7"

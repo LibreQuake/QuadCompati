@@ -1,6 +1,6 @@
 {
 "classname"	"worldspawn"
-"wad"	"gfx/tim.wad"
+"wad"	"../../../../texture-wads/tim.wad"
 "message"	"The Dark Zone"
 "worldtype"	"0"
 "sounds"	"5"

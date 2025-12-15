@@ -2,7 +2,7 @@
 "message"	"The Tower of Despair"
 "worldtype"	"0"
 "classname"	"worldspawn"
-"wad"	"gfx/medieval.wad"
+"wad"	"../../../../texture-wads/medieval.wad"
 "sounds"	"8"
 {
 ( -256 192 1128 ) ( -256 128 1128 ) ( -256 128 672 ) CEILING1_3 0 0 0 1.000000 1.000000

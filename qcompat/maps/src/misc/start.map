@@ -1,7 +1,7 @@
 {
 "sounds"	"4"
 "classname"	"worldspawn"
-"wad"	"gfx/start.wad"
+"wad"	"../../../../texture-wads/start.wad"
 "message"	"Introduction"
 "worldtype"	"0"
 {
