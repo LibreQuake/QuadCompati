@@ -1,0 +1,9 @@
+*.json
+*.prt
+*.vis
+*.log
+*.sav
+*.cfg
+*.bsp
+*.wad
+autosave/
