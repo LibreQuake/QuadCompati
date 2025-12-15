@@ -1,7 +1,7 @@
 {
 "message"	"the Palace of Hate"
 "classname"	"worldspawn"
-"wad"	"gfx/medieval.wad"
+"wad"	"../../../../texture-wads/medieval.wad"
 "worldtype"	"0"
 "sounds"	"5"
 {

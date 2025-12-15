@@ -2,7 +2,7 @@
 "message"	"the Crypt of Decay"
 "sounds"	"9"
 "worldtype"	"0"
-"wad"	"gfx/jr_med.wad"
+"wad"	"../../../../texture-wads/jr_med.wad"
 "classname"	"worldspawn"
 {
 ( 448 -384 96 ) ( 448 -384 128 ) ( 448 -448 128 ) COP2_3 0 0 0 1.000000 1.000000

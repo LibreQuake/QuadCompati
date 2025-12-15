@@ -1,7 +1,7 @@
 {
 "worldtype"	"2"
 "classname"	"worldspawn"
-"wad"	"gfx/base.wad"
+"wad"	"../../../../texture-wads/base.wad"
 "sounds"	"6"
 "message"	"the Sewage System"
 {

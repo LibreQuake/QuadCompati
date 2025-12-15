@@ -1,6 +1,6 @@
 {
 "classname"	"worldspawn"
-"wad"	"gfx/medieval.wad"
+"wad"	"../../../../texture-wads/medieval.wad"
 "sounds"	"10"
 "worldtype"	"0"
 "message"	"Gloom Keep"

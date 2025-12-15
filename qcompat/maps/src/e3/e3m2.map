@@ -1,6 +1,6 @@
 {
 "worldtype"	"1"
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "classname"	"worldspawn"
 "sounds"	"8"
 "message"	"The Vaults of Zin"

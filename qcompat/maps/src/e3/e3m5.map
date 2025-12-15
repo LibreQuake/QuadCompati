@@ -1,6 +1,6 @@
 {
 "sounds"	"10"
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "classname"	"worldspawn"
 "message"	"the Wind Tunnels"
 "worldtype"	"1"

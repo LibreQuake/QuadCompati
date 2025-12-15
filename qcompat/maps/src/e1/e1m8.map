@@ -2,7 +2,7 @@
 "sounds"	"10"
 "worldtype"	"1"
 "classname"	"worldspawn"
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "message"	"Ziggurat Vertigo"
 {
 ( -64 768 656 ) ( -64 -768 656 ) ( -64 -768 464 ) LGMETAL 0 0 0 1.000000 1.000000

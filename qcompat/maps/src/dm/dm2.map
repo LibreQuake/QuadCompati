@@ -1,7 +1,7 @@
 {
 "sounds"	"5"
 "worldtype"	"0"
-"wad"	"gfx/metal.wad"
+"wad"	"../../../../texture-wads/metal.wad"
 "classname"	"worldspawn"
 "message"	"Claustrophobopolis"
 {

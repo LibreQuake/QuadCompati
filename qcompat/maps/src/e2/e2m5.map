@@ -1,6 +1,6 @@
 {
 "classname"	"worldspawn"
-"wad"	"gfx/wizard.wad"
+"wad"	"../../../../texture-wads/wizard.wad"
 "message"	"the Wizard's Manse"
 "worldtype"	"0"
 "sounds"	"10"

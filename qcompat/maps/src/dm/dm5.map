@@ -3,7 +3,7 @@
 "worldtype"	"0"
 "light"	"150"
 "classname"	"worldspawn"
-"wad"	"gfx/medieval.wad"
+"wad"	"../../../../texture-wads/medieval.wad"
 "message"	"The Cistern"
 {
 ( -64 608 32 ) ( -96 576 32 ) ( -96 576 16 ) AFLOOR1_8 0 0 0 1.000000 1.000000

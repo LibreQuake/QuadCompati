@@ -1,7 +1,7 @@
 {
 "message"	"Azure Agony"
 "worldtype"	"0"
-"wad"	"gfx/medieval.wad"
+"wad"	"../../../../texture-wads/medieval.wad"
 "classname"	"worldspawn"
 "sounds"	"7"
 {

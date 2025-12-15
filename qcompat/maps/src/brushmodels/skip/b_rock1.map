@@ -7,7 +7,7 @@
 ( 16 0 32 ) ( 16 8 32 ) ( 32 8 32 ) ROCKETTOP 0 0 0 1 1
 ( 32 8 0 ) ( 16 8 0 ) ( 16 0 0 ) ROCKETTOP 0 0 0 1 1
 }
-"wad" "gfx/items.wad"
+"wad" "../../../../texture-wads/items.wad"
 "classname" "worldspawn"
 }
 {

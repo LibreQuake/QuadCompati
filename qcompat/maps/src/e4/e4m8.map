@@ -1,7 +1,7 @@
 {
 "worldtype"	"0"
 "classname"	"worldspawn"
-"wad"	"gfx/medieval.wad"
+"wad"	"../../../../texture-wads/medieval.wad"
 "message"	"the Nameless City"
 "sounds"	"10"
 {

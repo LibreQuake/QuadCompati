@@ -1,7 +1,7 @@
 {
 "worldtype"	"0"
 "classname"	"worldspawn"
-"wad"	"gfx/wizard.wad"
+"wad"	"../../../../texture-wads/wizard.wad"
 "message"	"The Pain Maze"
 "sounds"	"4"
 {
