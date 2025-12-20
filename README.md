@@ -1,5 +1,10 @@
-# welcome to QuadCompati
-## v0.01
+<h1><p align="center">QuadCompati</h1>
+</a></p>
+<h3><p align="center">Quick Access</h3>
+<h3><p align="center"><a href="https://github.com/LibreQuake/QuadCompati/releases">[Downloads/Releases]</a></p></h3>
+<h3><p align="center"><a href="https://discord.gg/nsr6DTF6RX">[Discord]</a></p></h3>
+<h1></h1>
+
 QuadCompati a liberated texture replacement for the gpl quake map release
 while its textures will eventually be replaced with librequake versions of the textures this versions textures are fully cc0/mit0/bsd0
 
