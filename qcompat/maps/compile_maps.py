@@ -11,9 +11,9 @@ import sys
 import shutil
 
 # Map compiler paths
-LQ_BSP_PATH = "/home/lavender/Bin/-local-bin-/qbsp"
-LQ_VIS_PATH = "/home/lavender/Bin/-local-bin-/vis"
-LQ_LIG_PATH = "/home/lavender/Bin/-local-bin-/light"
+LQ_BSP_PATH = os.getenv('LQ_BSP_PATH', 'qbsp')
+LQ_VIS_PATH = os.getenv('LQ_VIS_PATH', 'vis')
+LQ_LIG_PATH = os.getenv('LQ_LIG_PATH', 'light')
 
 # Location of per-map compilation argument paths
 LQ_MAP_CON_PATH = "src/-buildconfigs-"
