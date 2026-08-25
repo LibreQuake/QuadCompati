@@ -1,19 +1,19 @@
 # welcome to QuadCompati
-## v0.01
 QuadCompati a liberated texture replacement for the gpl quake map release
 while its textures will eventually be replaced with librequake versions of the textures this versions textures are fully cc0/mit0/bsd0
 
 ### whats under the gpl (for more info read docs/gnu.txt & docs/romero_readme.txt)
 ---
-all the .map files
+QuadCompati/qcompat/maps/src/*/*.map (all the .map files)
 
 ### whats under the bsd3
 ---
 compile_maps.py
+QuadCompati/texture-wads/*/*.png (all the textures)
 
 ### whats under the cc0/mit0/bsd0
 ---
-all of the texture-wads (only for v0.01)
+the wad/texture files in the [v0.01 release](https://github.com/LibreQuake/QuadCompati/releases/tag/v0.01) due to them just being my dev textures
 
 ### original map source release can be found here
 ---
