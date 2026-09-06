@@ -7,3 +7,16 @@
 *.bsp
 *.wad
 autosave/
+
+#↓custom file ignores↓
+*.id1
+*.ignore
+*.hide
+
+#↓custom folders ignores↓
+*-id1-
+*-ignore-
+*-hide-
+*-id1
+*-ignore
+*-hide
