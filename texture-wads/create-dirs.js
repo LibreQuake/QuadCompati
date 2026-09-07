@@ -26,7 +26,7 @@ lines.forEach(line => {
 
 // console.log(util.inspect(sections, { showHidden: false, depth: null })); // uncomment to examine structure
 // console.log(process.env.FOLDER_PREFIX); // uncomment to check env var parsing
-const allTexturesPath = process.env.ALL_TEXTURES_PATH != null ? process.env.ALL_TEXTURES_PATH : 'src/';
+const allTexturesPath = process.env.ALL_TEXTURES_PATH != null ? process.env.ALL_TEXTURES_PATH : 'all/';
 sections.forEach(section => {
 	//console.log(section); // uncomment to examine structure
 	const folderName = process.env.FOLDER_PREFIX != null
