@@ -75,10 +75,10 @@ When having discussions, please be mindful to use proper grammar and full senten
 
 If you are a Collaborator looking to merge a Pull Request, or are just curious about merge prerequisites, we will merge a Pull Request given the following are true:
 
-* ~~It has received 2 or more approvals.~~
+* It has received 1 or more approvals.
 * The Pull Request template has been followed.
 * Commits follow our convention standards.
 * If the user is a collaborator, the Branch name convention standards have been followed.
-* ~~24 hours or more have passed since the PR has been marked ready for review.~~
+* 24 hours or more have passed since the PR has been marked ready for review.
 
-~~If the change fixes a critical issue (such as a crash, broken animation, etc.) an exception should be made for the 24 hour rule, **however all other prerequisites must be met!**~~
+If the change fixes a critical issue (such as a crash, broken textures, etc.) an exception should be made for the 24 hour rule, **however all other prerequisites must be met!**

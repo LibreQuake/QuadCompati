@@ -1,3 +1,8 @@
+#↓ignored folders↓
+autosave/
+screenshots/
+
+#↓ignored files↓
 *.json
 *.prt
 *.vis
@@ -6,5 +11,19 @@
 *.cfg
 *.bsp
 *.wad
-autosave/
-screenshots/
+
+#↓custom file ignores↓
+*.id1
+*.ignore
+*.hide
+*.id1.*
+*.ignore.*
+*.hide.*
+
+#↓custom folders ignores↓
+*-id1-
+*-ignore-
+*-hide-
+*-id1
+*-ignore
+*-hide
