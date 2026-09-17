@@ -11,6 +11,9 @@ screenshots/
 *.cfg
 *.bsp
 *.wad
+*.py
+*.sh
+*.desktop
 
 #↓custom file ignores↓
 *.id1
