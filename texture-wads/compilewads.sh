@@ -1,4 +1,5 @@
 # licence cc0/bsd0/mit0 (not that i really think licences make sense for bash scripts)
+./create-dirs.js
 qpakman qcompat_base/*.png -o base.wad | grep -i -B 1 fail | grep -v WAD2
 qpakman qcompat_jrmed/*.png -o jr_med.wad | grep -i -B 1 fail | grep -v WAD2
 qpakman qcompat_med/*.png -o medieval.wad | grep -i -B 1 fail | grep -v WAD2
