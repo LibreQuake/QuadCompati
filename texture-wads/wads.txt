@@ -205,7 +205,7 @@ star_04awater1.png
 star_04water2.png
 star_teleport.png
 trigger.png
-uwall1_8.png
+unwall1_8.png
 wood1_8.png
 z_exit_fbr.png
 
